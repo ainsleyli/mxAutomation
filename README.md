@@ -6,9 +6,9 @@
           
 IF you run into a permissions error:
 
-On a PC: reopen Bash or your Command Prompt as Administrator
+    On a PC: reopen Bash or your Command Prompt as Administrator
 
-On a Mac: enter the command as
+    On a Mac: enter the command as
       sudo npm i -g nightwatch 
       
 2. Create a new folder on your desktop. Then CD into said new folder, clone this repo. 
