@@ -4,7 +4,7 @@
     Use the command:
           npm i -g nightwatch
           
-IF you run into a permissions error:
+    IF you run into a permissions error:
 
     On a Mac: enter the command as
       sudo npm i -g nightwatch 
